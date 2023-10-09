@@ -41,7 +41,7 @@ export const BookForm = () => {
           />
         </div>
         <div className="inputbox">
-          <h3>Contact Number*</h3>
+          <h3>Contact Numberss*</h3>
           <input
             type="tel"
             placeholder="Number"
